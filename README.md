@@ -2,13 +2,21 @@
 I will be solving at least one code problem daily based on Data structure &amp; algorithms. I am starting this on 13th March 2021.
 
 ### Target:
+Daily Topics:
+- Python Basics Revision [30 minutes, Night]
+- Python one new topic [45 minutes, Night]
+- One DS topic program [1.5 Hours, Day]
+
+Weekend Topics:
+- System Design
+- OS and DBMS
+- OOP Design
+- Cultural Fit
+
+#### Coding Target
 - Basic Level: 200 Questions
 - Medium Level: 150 Questions
 - Hard Level: 100 Questions
-- System Design: 
-- OS and DBMS: 
-- OOP Design: 
-- Cultural Fit:
 
 Reference: 
 - https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
