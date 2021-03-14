@@ -1,9 +1,9 @@
 """
 Program find an element in a list using Linear Search.
 
-Worst Case: When the given element is not found O(n)
-Average Case: Average O(n)
-Best Case: Element found at first place O(1)
+Worst Case: O(n)
+Average Case: O(n)
+Best Case: O(1), Element found at first place.
 
 """
 
